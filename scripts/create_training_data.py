@@ -1,16 +1,22 @@
 import json
+import os
+dirname = os.path.dirname(__file__)
 
-with open("../raw/expansions.json", "r") as f:
+with open(os.path.join(dirname, "../raw/expansions.json"), "r") as f:
     expansions = json.load(f)
-with open("../raw/cards-light.json", "r") as f:
+with open(os.path.join(dirname, "../raw/cards-light.json"), "r") as f:
     src_cards = json.load(f)["cards"]
-with open("../raw/cards-dark.json", "r") as f:
+with open(os.path.join(dirname, "../raw/cards-dark.json"), "r") as f:
     src_cards = src_cards + json.load(f)["cards"]
 
 card_facts = []
 
 for card in src_cards:
     title = card["front"]["title"].replace('•', '').replace('<>', '')
+    if title.endswith(" (AI)"):
+        card_facts.append({"text": f'{title.replace(" (AI)", "")} has an alternate image.', "metadata": title})
+        continue
+
     side = card["side"]
     rarity = card["rarity"]
     set_number = card["set"]
@@ -107,6 +113,7 @@ for card in src_cards:
     if two_sided:
         card_facts.append({"text": f'{title} is a two-sided card.', "metadata": title})
 
-f = open("../data/cards.jsonl", "w")
+output_file = os.path.join(dirname, '../data/cards.jsonl')
+f = open(output_file, "w")
 f.writelines('\n'.join(map(json.dumps, card_facts)))
 f.close()
