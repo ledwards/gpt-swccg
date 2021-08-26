@@ -37,7 +37,6 @@ for card in src_cards:
     attributes["extra_text"] = card["front"].get("extra_text")
 
     if card.get("back"):
-        print(title)
         two_sided = True
         gametext = f'FRONT:\n{gametext}\nBACK:\n{card["back"]["gametext"]}'
         if attributes.get("destiny") and card["back"].get("destiny"):
@@ -49,56 +48,52 @@ for card in src_cards:
     attributes_strings = [f'{k.title()}: {v}' for k, v in attributes.items() if v]
 
     card_facts.append({
-        "title": f'{title} is titled {title}.',
+        "text": f'{title} is a {side} Side card from expansion set {set_name}.',
         "metadata": title
     })
     card_facts.append({
-        "title": f'{title} is a {side} Side card from expansion set {set_name}.',
+        "text": f'{title} is rarity {rarity}.',
         "metadata": title
     })
     card_facts.append({
-        "title": f'{title} is rarity {rarity}.',
-        "metadata": title
-    })
-    card_facts.append({
-        "title": f'{title} is card type {full_type}.',
+        "text": f'{title} is card type {full_type}.',
         "metadata": title
     })
     if uniqueness:
         card_facts.append({
-            "title": f'{title} is uniqueness {uniqueness}.',
+            "text": f'{title} is uniqueness {uniqueness}.',
             "metadata": title
         })
     if lore and lore != "Blank.":
         card_facts.append({
-            "title": f'{title} has lore: "{lore}".',
+            "text": f'{title} has lore: "{lore}".',
             "metadata": title
         })
     card_facts.append({
-        "title": f'{title} has gametext: "{gametext}".',
+        "text": f'{title} has gametext: "{gametext}".',
         "metadata": title
     })
     card_facts.append({
-        "title": f'{title} has {", ".join(attributes_strings)}.',
+        "text": f'{title} has {", ".join(attributes_strings)}.',
         "metadata": title
     })
     if icons:
         card_facts.append({
-            "title": f'{title} has the icons {", ".join(icons)}.',
+            "text": f'{title} has the icons {", ".join(icons)}.',
             "metadata": title
         })
     if characteristics:
         card_facts.append({
-            "title": f'{title} is {", ".join(characteristics)}.',
+            "text": f'{title} is {", ".join(characteristics)}.',
             "metadata": title
         })
 
     if uniqueness == "*":
-        card_facts.append({"title": f'{title} is unique.', "metadata": title})
+        card_facts.append({"text": f'{title} is unique.', "metadata": title})
 
     if uniqueness == None:
-        card_facts.append({"title": f'{title} is non-unique.', "metadata": title})
+        card_facts.append({"text": f'{title} is non-unique.', "metadata": title})
 
-f = open("./data/cards.jsonl", "a")
+f = open("./data/cards.jsonl", "w")
 f.writelines('\n'.join(map(json.dumps, card_facts)))
 f.close()
