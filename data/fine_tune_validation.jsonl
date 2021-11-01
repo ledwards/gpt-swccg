@@ -1,0 +1,264 @@
+{"prompt": "What is Darth Vader's power?", "completion": "Darth Vader is power 6."}
+{"prompt": "What is Darth Vader's power attribute?", "completion": "Darth Vader is power 6."}
+{"prompt": "What power does Darth Vader have?", "completion": "Darth Vader has power 6."}
+{"prompt": "What Ability does Darth Vader have?", "completion": "Darth Vader has Ability 6."}
+{"prompt": "What is Darth Vader's ability?", "completion": "Darth Vader is Ability 6."}
+{"prompt": "What is Boba Fett's armor?", "completion": "Boba Fett is Armor 5."}
+{"prompt": "What is Boba Fett's armor rating?", "completion": "Boba Fett is Armor 5."}
+{"prompt": "What Armor does Darth Vader have?", "completion": "Darth Vader has no Armor."}
+{"prompt": "What defense value does Luke Skywalker have?", "completion": "Luke Skywalker has defense value 4."}
+{"prompt": "What defense value does Han Solo have?", "completion": "Han Solo has defense value 3."}
+{"prompt": "What defense value does Boba Fett have?", "completion": "Boba Fett has defense value 5."}
+{"prompt": "What is Boba Fett's landspeed?", "completion": "Boba Fett is Landspeed = 3."}
+{"prompt": "What is Luke Skywalker's power?", "completion": "Luke Skywalker is power 3."}
+{"prompt": "What is Commander Luke Skywalker's power?", "completion": "Commander Luke Skywalker is power 4."}
+{"prompt": "What is Son of Skywalker's power?", "completion": "Son of Skywalker is power 5."}
+{"prompt": "What is Luke Skywalker, Jedi Knight's power?", "completion": "Luke Skywalker, Jedi Knight is power 6."}
+{"prompt": "Where can Yoda deploy?", "completion": "Yoda can deploy only to Dagobah."}
+{"prompt": "Where can Princess Leia deploy?", "completion": "Princess Leia can deploy only to Hoth or Cloud City."}
+{"prompt": "Where can Luke Skywalker deploy?", "completion": "Luke Skywalker has no deployment restrictions."}
+{"prompt": "Where can Yoda, Master of the Force deploy?", "completion": "Yoda, Master of the Force can deploy only to Coruscant or Naboo."}
+{"prompt": "Where can Yoda, Master of the Force (V) deploy?", "completion": "Yoda, Master of the Force (V) has no deployment restrictions."}
+{"prompt": "What is Darth Vader's destiny?", "completion": "Darth Vader is destiny 1."}
+{"prompt": "What is Emperor Palpatine's destiny?", "completion": "Emperor Palpatine is destiny 6."}
+{"prompt": "What is The Emperor's destiny?", "completion": "The Emperor is destiny 1."}
+{"prompt": "What is Palpatine, Emperor Returned's destiny?", "completion": "Palpatine, Emperor Returned is destiny 4."}
+{"prompt": "What is Senator Palpatine's destiny?", "completion": "Senator Palpatine is destiny 3."}
+{"prompt": "What is Light Side Palpatine's destiny?", "completion": "Senator Palpatine is destiny 3."}
+{"prompt": "What is Death Star II Palpatine's destiny?", "completion": "Emperor Palpatine is destiny 6."}
+{"prompt": "What is Destiny 6 Palpatine's deploy?", "completion": "Emperor Palpatine is deploy 5."}
+{"prompt": "What is Darth Vader's destiny?", "completion": "Darth Vader is destiny 1."}
+{"prompt": "Who calls Luke Skywalker Wormie?", "completion": "Camie"}
+{"prompt": "Who trained Biggs Darklighter?", "completion": "Baron Soontir Fel"}
+{"prompt": "Who taught Biggs Darklighter?", "completion": "Baron Soontir Fel"}
+{"prompt": "Which Palpatine is a Republic character?", "completion": "Senator Palpatine"}
+{"prompt": "Which Palpatine is a not a Dark Jedi Master?", "completion": "Senator Palpatine"}
+{"prompt": "Which Palpatine is a First Order character?", "completion": "Palpatine, Emperor Returned"}
+{"prompt": "Which Palpatines are Imperial?", "completion": "Emperor Palpatine and The Emperor"}
+{"prompt": "Which Location deploys Jabba's Palace sites from my Reserve Deck?", "completion": "Tatooine: Jabba's Palace"}
+{"prompt": "Which Location pulls Jabba's Palace sites?", "completion": "Tatooine: Jabba's Palace"}
+{"prompt": "Which Location downloads Jabba's Palace sites?", "completion": "Tatooine: Jabba's Palace"}
+{"prompt": "Which Location downloads Dagobah sites?", "completion": "Dagobah"}
+{"prompt": "Which Location uploads Jabba's Palace sites?", "completion": "none"}
+{"prompt": "Which Objective searches my deck for Death Star sites?", "completion": "Set Your Course for Alderaan"}
+{"prompt": "Which Objective pulls Death Star sites?", "completion": "Set Your Course for Alderaan"}
+{"prompt": "Which Objective uploads Death Star sites?", "completion": "Set Your Course for Alderaan"}
+{"prompt": "Which Objective downloads Death Star sites?", "completion": "No Objective downloads Death Star sites."}
+{"prompt": "Which Epic Event downloads Dagobah sites?", "completion": "No Objective downloads Death Star sites."}
+{"prompt": "At which Light Side Location do starships deploy -2?", "completion": "Rendezvous Point"}
+{"prompt": "Which Effect deploys on Main Power Generator and adds to Force Drain at systems?", "completion": "Echo Base Operations"}
+{"prompt": "How much power does Baron Soontir Fel add to anything he pilots?", "completion": "3"}
+{"prompt": "How much manuever does Baron Soontir Fel add to anything he pilots?", "completion": "none"}
+{"prompt": "How much manuever does Baron Soontir Fel add while piloting Saber 1?", "completion": "2"}
+{"prompt": "How much manuever does Baron Soontir Fel add to Saber 1?", "completion": "2"}
+{"prompt": "What manuever does Baron Soontir Fel add to Saber 1?", "completion": "2"}
+{"prompt": "Who is the matching pilot for Saber 1?", "completion": "Baron Soontir Fel"}
+{"prompt": "What is the matching starship for Baron Soontir Fel?", "completion": "Saber 1"}
+{"prompt": "Who is the matching pilot for Slave 1?", "completion": "Boba Fett"}
+{"prompt": "Who is the matching pilot for Vader's Custom TIE?", "completion": "Darth Vader"}
+{"prompt": "Who is the matching pilot for Vader's Personal Shuttle?", "completion": "Darth Vader"}
+{"prompt": "What is the matching starship for Darth Vader?", "completion": "Vader's Custom TIE, Vader's Personal Shuttle"}
+{"prompt": "Is Darth Vader a pilot?", "completion": "Yes"}
+{"prompt": "Is Darth Vader a warrior?", "completion": "Yes"}
+{"prompt": "Is Darth Vader an astromech?", "completion": "No"}
+{"prompt": "Is Yoda a pilot?", "completion": "No"}
+{"prompt": "Is Melas a warrior?", "completion": "No"}
+{"prompt": "Does Melas have a permanent weapon?", "completion": "No"}
+{"prompt": "Does Darth Vader have a permanent weapon?", "completion": "No"}
+{"prompt": "Does Darth Vader with Lightsaber have a permanent weapon?", "completion": "Yes"}
+{"prompt": "Is U-3PO a spy?", "completion": "Yes"}
+{"prompt": "Is Leia Organa a spy?", "completion": "Yes"}
+{"prompt": "Is U-3PO an undercover spy?", "completion": "Yes"}
+{"prompt": "Is Leia Organa an undercover spy?", "completion": "No"}
+{"prompt": "Is Tamtel Skreej an undercover spy?", "completion": "Yes"}
+{"prompt": "Is Lando Calrissian a persona of Lando?", "completion": "Yes"}
+{"prompt": "Is Tamtel Skreej a persona of Lando?", "completion": "Yes"}
+{"prompt": "Is Luke Skywalker a persona of Lando?", "completion": "No"}
+{"prompt": "Is Luke Skywalker a persona of Luke?", "completion": "Yes"}
+{"prompt": "Is Son of Skywalker a persona of Luke?", "completion": "Yes"}
+{"prompt": "What card cancels Anger, Fear, Aggression?", "completion": "Projective Telepathy"}
+{"prompt": "What card cancels Clash of Sabers?", "completion": "Crush the Rebellion"}
+{"prompt": "What card cancels any Interrupt?", "completion": "Sense"}
+{"prompt": "What card cancels any Effect?", "completion": "Alter"}
+{"prompt": "What card cancels any Utinni Effect?", "completion": "Alter"}
+{"prompt": "What cards cancel Sense?", "completion": "Alter, Control"}
+{"prompt": "What cards cancel Alter?", "completion": "Sense, Control"}
+{"prompt": "What card cancels Sense and Alter?", "completion": "Control"}
+{"prompt": "What card cancels Sense or Alter?", "completion": "Control"}
+{"prompt": "What is the nickname for There Is Good In Him?", "completion": "TIGIH"}
+{"prompt": "What card is called TIGIH?", "completion": "There Is Good In Him"}
+{"prompt": "What is the nickname for Luke Skywalker, Jedi Knight?", "completion": "LSJK"}
+{"prompt": "What card is called LSJK?", "completion": "Luke Skywalker, Jedi Knight"}
+{"prompt": "Which system has 3 Dark Side icons?", "completion": "Death Star"}
+{"prompt": "Which site has 3 Dark Side icons?", "completion": "Naboo: Theed Palace Generator Core"}
+{"prompt": "Which locations have 3 Dark Side icons?", "completion": "Death Star, Naboo: Theed Palace Generator Core"}
+{"prompt": "Which site has 3 Light Side icons?", "completion": "Coruscant: Jedi Council Chamber"}
+{"prompt": "What is the Defensive Shield for Staging Areas?", "completion": "Fanfare"}
+{"prompt": "What are the Defensive Shields for Proton Bombs?", "completion": "Planetary Defenses, Planetary Defenses (V)"}
+{"prompt": "Which Light Side Defensive Shield limits my Force drain loss to 2?", "completion": "Ultimatum"}
+{"prompt": "Which Dark Side Defensive Shield limits my Force drain loss to 2?", "completion": "Resistance"}
+{"prompt": "Which starship cancels Interrupts?", "completion": "Conquest (V)"}
+{"prompt": "Which Objective cancels my battle damage on Death Star?", "completion": "Set Your Course for Alderaan"}
+{"prompt": "Which Epic Event targets Death Star?", "completion": "Commence Primary Ignition"}
+{"prompt": "Which Epic Event targets Death Star: Trench?", "completion": "Attack Run"}
+{"prompt": "Which Epic Event targets Hoth: Main Power Generator?", "completion": "Target the Main Power Generator"}
+{"prompt": "Which Light Side Interrupts cancel battles?", "completion": "It's a Trap, Alternatives to Fighting"}
+{"prompt": "Which Light Side Interrupts allow my Characters to move away from battles?", "completion": "Dodge, Narrow Escape"}
+{"prompt": "Which Light Side Interrupts allow my Starships to move away from battles?", "completion": "Hit and Run, Hyper Escape"}
+{"prompt": "Which Interrupts search my deck for holograms?", "completion": "Escape Pod (V), Masterful Move"}
+{"prompt": "How many times per game can Leia, Rebel Princess cancel a Force drain?", "completion": "Twice"}
+{"prompt": "How many times per game can Force Push (V) search my Force Pile?", "completion": "Once"}
+{"prompt": "How many times per game can Lott Dodd search my Force Pile?", "completion": "Unlimited"}
+{"prompt": "How many times per turn can Lott Dodd search my Force Pile?", "completion": "Once"}
+{"prompt": "Which Objective lets me play an Interrupt from my Lost Pile?", "completion": "Watch Your Step"}
+{"prompt": "Which Light Side Interrupt lets me search my opponent's Used Pile?", "completion": "Visored Vision"}
+{"prompt": "Which Interrupts let me exclude a character from battle for 2 Force?", "completion": "You Are Beaten, Clash of Sabers"}
+{"prompt": "Which Dark Side Interrupt lets me exclude a character from battle for 2 Force?", "completion": "You Are Beaten"}
+{"prompt": "Which Light Side Interrupt lets me exclude a character from battle for 2 Force?", "completion": "Clash of Sabers"}
+{"prompt": "Which side of the Force is Clash of Sabers?", "completion": "Light Side"}
+{"prompt": "Which side of the Force is You Are Beaten?", "completion": "Dark Side"}
+{"prompt": "What is the Dark Side counterpart to Clash of Sabers?", "completion": "You Are Beaten"}
+{"prompt": "What is the Light Side counterpart to You Are Beaten?", "completion": "Clash of Sabers"}
+{"prompt": "What is the Light Side counterpart to Sense?", "completion": "Sense"}
+{"prompt": "What is the Dark Side counterpart to Sense?", "completion": "Sense"}
+{"prompt": "How many Maintenance cards are there?", "completion": "7"}
+{"prompt": "How many Maintenance cards exist?", "completion": "7"}
+{"prompt": "How many Maintenance icon cards are there?", "completion": "7"}
+{"prompt": "How many Dark Side Maintenance cards are there?", "completion": "4"}
+{"prompt": "How many Light Side Maintenance cards are there?", "completion": "3"}
+{"prompt": "How many Maintenance icon vehicles are there?", "completion": "1"}
+{"prompt": "How many Maintenance icon starships are there?", "completion": "1"}
+{"prompt": "How many Maintenance icon Characters are there?", "completion": "5"}
+{"prompt": "How many Maintenance icon non-characters are there?", "completion": "2"}
+{"prompt": "How many unique Maintenance cards are there?", "completion": "6"}
+{"prompt": "How many non-unique Maintenance cards are there?", "completion": "1"}
+{"prompt": "What is the name of the Maintenance icon vehicle?", "completion": "Blizzard 4"}
+{"prompt": "What is the name of the Maintenance icon Starship?", "completion": "Han, Chewie, and the Falcon"}
+{"prompt": "What is the name of the Maintenance icon Starfighter?", "completion": "Han, Chewie, and the Falcon"}
+{"prompt": "What is the name of the Maintenance icon Light Freighter?", "completion": "Han, Chewie, and the Falcon"}
+{"prompt": "What does the Maintenance icon vehicle download?", "completion": "an Imperial warrior"}
+{"prompt": "What does the Maintenance icon starship cost?", "completion": "6"}
+{"prompt": "What does the Maintenance icon starship cost per turn?", "completion": "3"}
+{"prompt": "What does Han, Chewie, and the Falcon cost per turn?", "completion": "3"}
+{"prompt": "What is the nickname for Han, Chewie, and the Falcon?", "completion": "HCF"}
+{"prompt": "What does HCF stand for?", "completion": "Han, Chewie, and the Falcon"}
+{"prompt": "What is the power of the Maintenance icon vehicle?", "completion": "8"}
+{"prompt": "What is the power of the Maintenance icon Alien?", "completion": "8"}
+{"prompt": "What is the power of the Maintenance icon bounty hunter?", "completion": "8"}
+{"prompt": "Is Boba Fett a bounty hunter?", "completion": "Yes"}
+{"prompt": "What characteristics does Boba Fett have?", "completion": "bounty hunter"}
+{"prompt": "What characteristics does Han Solo have?", "completion": "smuggler, gambler"}
+{"prompt": "What race is Han Solo?", "completion": "Corellian"}
+{"prompt": "What planet is Han Solo from?", "completion": "Corellia"}
+{"prompt": "What race is Chewbacca?", "completion": "Wookiee"}
+{"prompt": "What race is Wicket?", "completion": "Ewok"}
+{"prompt": "What race is Elom?", "completion": "Elom"}
+{"prompt": "What race is Jawa?", "completion": "Jawa"}
+{"prompt": "What race is Jar Jar Binks?", "completion": "Gungun"}
+{"prompt": "What race is Boss Nass?", "completion": "Gungun"}
+{"prompt": "What race is Grand Admiral Thrawn?", "completion": "Chyss"}
+{"prompt": "What race is Grand Moff Tarkin?", "completion": "human"}
+{"prompt": "What gender is Princess Leia?", "completion": "female"}
+{"prompt": "What gender is Rey?", "completion": "female"}
+{"prompt": "What gender is Dr. Chelli Lona Aphra?", "completion": "female"}
+{"prompt": "What gender is Dr. Aphra?", "completion": "female"}
+{"prompt": "What gender is Padmé?", "completion": "female"}
+{"prompt": "What gender is Padme?", "completion": "female"}
+{"prompt": "What gender is Queen Amidala?", "completion": "female"}
+{"prompt": "What gender is Luke Skywalker?", "completion": "male"}
+{"prompt": "What gender is Luke?", "completion": "male"}
+{"prompt": "What gender is Han?", "completion": "male"}
+{"prompt": "What gender is Han Solo?", "completion": "male"}
+{"prompt": "What gender is Darth Vader?", "completion": "male"}
+{"prompt": "What gender is Jawa?", "completion": "male"}
+{"prompt": "What planet is Queen Amidala from?", "completion": "Naboo"}
+{"prompt": "What planet is Jar Jar Binks from?", "completion": "Naboo"}
+{"prompt": "What planet is Boss Nass from?", "completion": "Naboo"}
+{"prompt": "What characteristics does Darth Vader have?", "completion": "none"}
+{"prompt": "Where does Master Luke have a deployment bonus?", "completion": "Tatooine"}
+{"prompt": "Where does Luke Skywalker, Jedi Knight have a deployment bonus?", "completion": "Endor"}
+{"prompt": "Where does LSJK have a deployment bonus?", "completion": "Endor"}
+{"prompt": "What is Master Luke's immunity to attrition?", "completion": "Immune to attrition < 4"}
+{"prompt": "What is Obi-Wan Kenobi's immunity to attrition?", "completion": "Immune to attrition < 5"}
+{"prompt": "What is Darth Vader's immunity to attrition?", "completion": "immune to attrition < 5"}
+{"prompt": "What is Yoda's immunity to attrition?", "completion": "Immune to attrition"}
+{"prompt": "What is Emperor Palpatine's immunity to attrition?", "completion": "Immune to attrition"}
+{"prompt": "What is Mace Windu (V)'s immunity to attrition?", "completion": "Immune to attrition < 6 (< 8 with a Dark Jedi)"}
+{"prompt": "What is Jawa's immunity to attrition?", "completion": "none"}
+{"prompt": "Who places Jar Jar Binks out of play?", "completion": "Sebulba"}
+{"prompt": "Which card places a card in the Lost Pile out of play?", "completion": "Out of Commission"}
+{"prompt": "Which card places a Character out of play when opponent deploys a Character?", "completion": "Noble Sacrifice"}
+{"prompt": "How many pilots can Gold 5 add?", "completion": "2"}
+{"prompt": "How many pilots can Red 5 add?", "completion": "1"}
+{"prompt": "How many pilots can be added to Red 5?", "completion": "1"}
+{"prompt": "What type of droid is Artoo?", "completion": "Astromech"}
+{"prompt": "What type of droid is Threepio?", "completion": "Protocol"}
+{"prompt": "What type of droid is 2-1B?", "completion": "Medical"}
+{"prompt": "What type of Effect is Advantage?", "completion": "Immediate"}
+{"prompt": "What type of Interrupt is I Have You Now?", "completion": "Lost"}
+{"prompt": "What type of Starship is Saber 1?", "completion": "Starfighter: TIE Interceptor"}
+{"prompt": "Is Saber 1 a starfighter?", "completion": "Yes"}
+{"prompt": "Is Saber 1 a starship?", "completion": "Yes"}
+{"prompt": "Is Saber 1 a TIE Interceptor?", "completion": "Yes"}
+{"prompt": "Is Saber 1 a TIE?", "completion": "Yes"}
+{"prompt": "Is Saber 1 a TIE/LN?", "completion": "No"}
+{"prompt": "Is Saber 1 a TIE Bomber?", "completion": "No"}
+{"prompt": "Is Saber 1 an Independent starship?", "completion": "No"}
+{"prompt": "Is Saber 1 an Imperial starship?", "completion": "Yes"}
+{"prompt": "Is Slave 1 an Independent starship?", "completion": "Yes"}
+{"prompt": "Is Slave 1 an Imperial starship?", "completion": "No"}
+{"prompt": "Is Conquest an Imperial starship?", "completion": "Yes"}
+{"prompt": "Is Conquest an Imperial starfighter?", "completion": "No"}
+{"prompt": "Is Conquest a Star Destroyer?", "completion": "Yes"}
+{"prompt": "Is Conquest an Imperial-Class Star Destroyer?", "completion": "Yes"}
+{"prompt": "Is Conquest a Victory-Class Star Destroyer?", "completion": "Yes"}
+{"prompt": "Is Dominator a Victory-Class Star Destroyer?", "completion": "Yes"}
+{"prompt": "Is Dominator an Imperial-Class Star Destroyer?", "completion": "No"}
+{"prompt": "Is Dominator an Imperial starship?", "completion": "Yes"}
+{"prompt": "Is Dominator a capital starship?", "completion": "Yes"}
+{"prompt": "Is Conquest a capital starship?", "completion": "Yes"}
+{"prompt": "Is Slave I a capital starship?", "completion": "No"}
+{"prompt": "Is Saber I a capital starship?", "completion": "No"}
+{"prompt": "Whose power is higher: Obi-Wan Kenobi or Darth Vader?", "completion": "Darth Vader"}
+{"prompt": "Who has the higher power: Jawa or Darth Vader?", "completion": "Darth Vader"}
+{"prompt": "Does Princess Leia or Darth Vader have the higher power?", "completion": "Darth Vader"}
+{"prompt": "Whose forfeit is higher: Emperor Palpatine or Darth Vader?", "completion": "Emperor Palpatine"}
+{"prompt": "How many Dark Side Jedi are there?", "completion": "22"}
+{"prompt": "How many Light Side Jedi are there?", "completion": "36"}
+{"prompt": "How many Dark Jedi are there?", "completion": "22"}
+{"prompt": "How many Jedi are there?", "completion": "36"}
+{"prompt": "How many Dark Jedi Masters are there?", "completion": "8"}
+{"prompt": "How many Protocol Droids are there?", "completion": "16"}
+{"prompt": "How many Destroyer Droids are there?", "completion": "4"}
+{"prompt": "How many unique Destroyer Droids are there?", "completion": "2"}
+{"prompt": "How many non-unique Destroyer Droids are there?", "completion": "2"}
+{"prompt": "How many Light Side systems are there?", "completion": "44"}
+{"prompt": "How many Dark Side systems are there?", "completion": "42"}
+{"prompt": "How many Dark Side Tatooine systems are there?", "completion": "3"}
+{"prompt": "How many systems with Death Star in the title are there?", "completion": "3"}
+{"prompt": "How many Dark Side systems with Death Star in the title are there?", "completion": "2"}
+{"prompt": "How many Light Side systems with Death Star in the title are there?", "completion": "1"}
+{"prompt": "How many systems with Death Star in the title are there in Special Edition?", "completion": "1"}
+{"prompt": "What set is Light Side Death Star in?", "completion": "Special Edition"}
+{"prompt": "What set is Ben Kenobi in?", "completion": "Special Edition"}
+{"prompt": "What set is Obi-Wan Kenobi, Padawan Learner in?", "completion": "Tatooine"}
+{"prompt": "How many Dark Side characters have 'ISB' in their lore?", "completion": "17"}
+{"prompt": "How many characters have 'Wormie' in their lore?", "completion": "2"}
+{"prompt": "Which female character has 'Wormie' in her lore?", "completion": "Camie"}
+{"prompt": "Which warrior character has 'Wormie' in their lore?", "completion": "Luke"}
+{"prompt": "Which warrior character has 'Wormie' in his lore?", "completion": "Luke"}
+{"prompt": "Which warrior has 'Wormie' in their lore?", "completion": "Luke"}
+{"prompt": "Which non-warrior has 'Wormie' in their lore?", "completion": "Camie"}
+{"prompt": "Which non-pilot has 'Wormie' in their lore?", "completion": "Luke, Camie"}
+{"prompt": "Which character has 'Saber 1' in his gametext?", "completion": "Baron Soontir Fel"}
+{"prompt": "Which character has 'piloted TIE Interceptor' in his gametext?", "completion": "Baron Soontir Fel"}
+{"prompt": "Which pilot has 'piloted TIE Interceptor' in his gametext?", "completion": "Baron Soontir Fel"}
+{"prompt": "Which Light Side Effect makes the opponent lose 4 Force for not initiating a battle?", "completion": "Anger, Fear, Aggression"}
+{"prompt": "Which Light Side Effect makes the opponent lose 4 Force for not battling?", "completion": "Anger, Fear, Aggression"}
+{"prompt": "Which Light Side Effect makes the opponent lose 4 Force at an Asteroid Sector?", "completion": "Asteroid Sanctuary"}
+{"prompt": "How much Force do I lose from Anger, Fear, Aggression?", "completion": "4"}
+{"prompt": "How much Force do I lose from Limited Resources?", "completion": "2 or 4"}
+{"prompt": "How much Force do I lose from He Is Not Ready?", "completion": "1"}
+{"prompt": "How much Force do I lose from Civil Disorder?", "completion": "3"}
+{"prompt": "How do I cancel Scramble?", "completion": "When opponent has no pilots at sites."}
+{"prompt": "How do I cancel Civil Disorder?", "completion": "If opponent has more cards with ability on table than you."}
